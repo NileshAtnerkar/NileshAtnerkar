@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NileshAtnerkar
-- 👀 I’m interested in python programming and create new projects in django
-- 🌱 I’m currently learning advanced coding
-- 💞️ I’m looking to collaborate on python developers
+- 👀 DevOps Engineer || Software Engineer
+- 🌱 Having experience on kubernets cluster,docker,Terraform,git,shell script, Linux.
+- 💞️ I’m looking to collaborate on DevOps Engineers
 ..
